@@ -5,33 +5,33 @@ dataSet[dataSetVersion].options = [];
 
 dataSet[dataSetVersion].characterData = [
   {
-    name: "Hakurei Reimu",
-    img: "c5DqpgX.png",
+    name: "Universal Bullin",
+    img: "yQimbnA.png",
     opts: {
       series: ["book", "EoSD", "PCB", "IaMP", "IN", "PoFV", "StB", "MoF", "SWR", "SA", "UFO", "Soku", "DS", "TD", "HM", "DDC", "ISC", "ULiL", "LoLK"],
       stage: ["st4"]
     }
   },
   {
-    name: "Kirisame Marisa",
-    img: "tJnkSzK.png",
+    name: "Trial Bullin MKII",
+    img: "",
     opts: {
       series: ["book", "EoSD", "PCB", "IaMP", "IN", "PoFV", "StB", "MoF", "SWR", "SA", "UFO", "Soku", "DS", "GFW", "TD", "HM", "DDC", "ISC", "ULiL", "LoLK"],
       stage: ["st4", "ex"]
     }
   },
   {
-    name: "Rumia",
+    name: "Cassin",
     img: "0YT7QlS.png",
     opts: { series: ["book", "EoSD", "StB", "HM"], stage: ["st1"] }
   },
   {
-    name: "Daiyousei",
+    name: "Downes",
     img: "NWlZud3.png",
     opts: { series: ["book", "EoSD"], stage: ["st2", "ex"] }
   },
   {
-    name: "Cirno",
+    name: "Gridley",
     img: "qdveFSy.png",
     opts: {
       series: [ "book", "EoSD", "PCB", "PoFV", "StB", "Soku", "GFW", "HM", "DDC", "ISC"
@@ -40,17 +40,17 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Hong Meiling",
+    name: "Craven",
     img: "ptGp0x4.png",
     opts: { series: ["book", "EoSD", "IaMP", "StB", "Soku"], stage: ["st3"] }
   },
   {
-    name: "Koakuma",
+    name: "McCall",
     img: "vBKdDm4.png",
     opts: { series: ["book", "EoSD"], stage: ["st4"] }
   },
   {
-    name: "Patchouli Knowledge",
+    name: "Maury",
     img: "A7ZnuHo.png",
     opts: {
       series: ["book", "EoSD", "IaMP", "StB", "MoF", "Soku", "HM"],
@@ -58,7 +58,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Izayoi Sakuya",
+    name: "Fletcher",
     img: "sgZPf11.png",
     opts: {
       series: [ "book", "EoSD", "PCB", "IaMP", "IN", "PoFV", "StB", "MoF", "Soku", "HM", "DDC", "ISC"
@@ -67,7 +67,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Remilia Scarlet",
+    name: "Charles Ausburne",
     img: "8UX7hKE.png",
     opts: {
       series: ["book", "EoSD", "IaMP", "IN", "StB", "MoF", "Soku", "HM", "ISC"],
@@ -75,17 +75,17 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Flandre Scarlet",
+    name: "Thatcher",
     img: "OhaDcnc.png",
     opts: { series: ["book", "EoSD", "StB"], stage: ["ex"] }
   },
   {
-    name: "Letty Whiterock",
+    name: "Aulick",
     img: "MgzqjFK.png",
     opts: { series: ["book", "PCB", "StB", "HM"], stage: ["st1"] }
   },
   {
-    name: "Chen",
+    name: "Foote",
     img: "ohmetZh.png",
     opts: {
       series: ["book", "PCB", "IaMP", "StB", "MoF", "Soku", "HM"],
@@ -93,7 +93,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Alice Margatroid",
+    name: "Spence",
     img: "aDIf0pN.png",
     opts: {
       series: ["book", "PCB", "IaMP", "IN", "StB", "MoF", "Soku", "HM"],
@@ -101,27 +101,27 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Lily White",
+    name: "Benson",
     img: "2Pr8b2N.png",
     opts: { series: ["book", "PCB", "PoFV", "HM"], stage: ["st4", "ex"] }
   },
   {
-    name: "Lunasa Prismriver",
+    name: "Laffey",
     img: "htOMdDQ.png",
     opts: { series: ["book", "PCB", "PoFV", "HM"], stage: ["st4"] }
   },
   {
-    name: "Merlin Prismriver",
+    name: "Sims",
     img: "PrRPujP.png",
     opts: { series: ["book", "PCB", "PoFV", "HM"], stage: ["st4"] }
   },
   {
-    name: "Lyrica Prismriver",
+    name: "Hammann",
     img: "ze79bFC.png",
     opts: { series: ["book", "PCB", "PoFV", "HM"], stage: ["st4"] }
   },
   {
-    name: "Konpaku Youmu",
+    name: "Eldridge",
     img: "WMjyRLJ.png",
     opts: {
       series: [ "book", "PCB", "IaMP", "IN", "PoFV", "StB", "MoF", "Soku", "TD", "HM", "ISC"
@@ -130,7 +130,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Saigyouji Yuyuko",
+    name: "Omaha",
     img: "VT9mTGb.png",
     opts: {
       series: [ "book", "PCB", "IaMP", "IN", "StB", "MoF", "Soku", "TD", "HM", "ISC"
@@ -139,7 +139,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Yakumo Ran",
+    name: "Raleigh",
     img: "rshnJPV.png",
     opts: {
       series: ["book", "PCB", "IaMP", "IN", "StB", "MoF", "Soku", "HM"],

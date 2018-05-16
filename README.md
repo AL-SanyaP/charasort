@@ -1,3 +1,5 @@
+A boat sorter for Azur Lane based on [tohosort](https://tohosort.frelia.my/). Source code found [here](https://github.com/execfera/charasort/), originally based on [this](http://mainyan.sakura.ne.jp/thsort.html).
+
 # charasort
 A web based character sorter. Allows users to run through a manual merge sort of their favorite
 characters from a set.
@@ -8,7 +10,7 @@ characters from a set.
  * Shareable links of sorter results.
  * Versioning of sorter data - you may want to add characters and resources over time. Versioning keeps shareable links valid even if the base character data is changed.
  
-The version in this repo is built for characters from the [Touhou Project](https://en.wikipedia.org/wiki/Touhou_Project)
+The version in this repo is built for characters from the [Azur Lane](https://en.wikipedia.org/wiki/Azur_Lane)
 game series, but the sorter can be easily edited to create any custom sorter desired.
 
 ## Related Sorters
